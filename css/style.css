@@ -1,0 +1,19 @@
+nav {
+  font-family: "Lora", sans-serif;
+}
+
+.jumbotron {
+  background-image: url(../img/volswagenbeetle.jpg);
+  min-height: 750px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+}
+
+.jumbotron h1 {
+    font-family: "Fuzzy Bubbles", sans-serif;
+    align-self: center;
+}
